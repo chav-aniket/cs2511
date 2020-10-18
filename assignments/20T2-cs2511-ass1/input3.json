@@ -1,0 +1,13 @@
+{ "command": "room", "venue": "Application", "room": "Binary", "size": "small" }
+{ "command": "room", "venue": "Application", "room": "Code", "size": "medium" }
+{ "command": "room", "venue": "Application", "room": "Compiler", "size": "medium" }
+{ "command": "room", "venue": "Application", "room": "Executable", "size": "large" }
+{ "command": "room", "venue": "Water", "room": "Drop", "size": "small" }
+{ "command": "room", "venue": "Water", "room": "Puddle", "size": "medium" }
+{ "command": "room", "venue": "Water", "room": "Ocean", "size": "large" }
+{ "command": "request", "id": "Low Level", "start": "2019-05-14", "end": "2019-05-18", "small": 1, "medium": 2, "large": 0 }
+{ "command": "request", "id": "Trap Card", "start": "2019-05-17", "end": "2019-05-25", "small": 0, "medium": 1, "large": 1 }
+{ "command": "change", "id": "Low Level", "start": "2019-05-15", "end": "2019-05-17", "small": 1, "medium": 1, "large": 0 }
+{ "command": "request", "id": "Why?", "start": "2019-05-17", "end": "2019-05-25", "small": 0, "medium": 1, "large": 1 }
+{ "command": "change", "id": "Why?", "start": "2019-05-17", "end": "2019-05-25", "small": 1, "medium": 1, "large": 1 }
+{ "command": "list", "venue": "Application" }

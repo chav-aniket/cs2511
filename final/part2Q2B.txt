@@ -1,0 +1,2 @@
+The Adapter Pattern is intended to allow classes to work together in places where they wouldn't be able to due to incompatible interfaces.
+In this situation it would be used to take in XML code and convert it to JSON which will be compatible with said application.

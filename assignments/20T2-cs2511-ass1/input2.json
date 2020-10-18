@@ -1,0 +1,5 @@
+{ "command": "room", "venue": "Atom", "room": "electron", "size": "small" }
+{ "command": "room", "venue": "Compound", "room": "Ion", "size": "medium" }
+{ "command": "room", "venue": "Material", "room": "Gold", "size": "large" }
+{ "command": "request", "id": "The Mash Up", "start": "2019-05-14", "end": "2019-05-18", "small": 1, "medium": 1, "large": 1 }
+{ "command": "list", "venue": "Atom" }

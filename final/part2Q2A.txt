@@ -1,0 +1,3 @@
+The Observer Pattern is required for this use case as there is a subject class which has ongoing activity (the patient with the heart rate monitor)
+and subscribers who need to be updated (doctors and nurses who must be notified given a certain heart rate).
+This pattern allows for doctors and nurses to also unsubscribe if their responsibilities change over time.

@@ -1,0 +1,49 @@
+{
+  "venue": "Milky Way",
+  "rooms": [
+    "Pluto",
+    "Earth",
+    "Jupiter"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Universe",
+  "rooms": [
+    "Neutron",
+    "Blazar"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Milky Way",
+  "rooms": [
+    "Earth",
+    "Jupiter"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Milky Way",
+  "rooms": ["Pluto"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "Earth"
+  },
+  {
+    "reservations": [],
+    "room": "Jupiter"
+  },
+  {
+    "reservations": [{
+      "start": "2019-05-14",
+      "end": "2019-05-14",
+      "id": "Miracle"
+    }],
+    "room": "Pluto"
+  }
+]
+{"status": "rejected"}

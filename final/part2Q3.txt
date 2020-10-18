@@ -1,0 +1,4 @@
+The Builder pattern is structural and so provides multiple methods to build separate components where each component can be built to specification as required by a situation.
+The Decorator pattern is creational and so provides the ability to attach new behaviours to a certain objects by using wrapper objects which contain additional behaviours.
+The builder pattern allows you to create components in a custom manner however once received these components cannot have functionality added.
+The decorator pattern on the other hand allows you to add and remove functionality from a certain object dynamically throughout runtime.

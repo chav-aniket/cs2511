@@ -1,0 +1,68 @@
+{
+    "venue": "Application",
+    "rooms": [
+      "Binary",
+      "Code",
+      "Compiler"
+    ],
+    "status": "success"
+  }
+  {
+    "venue": "Water",
+    "rooms": [
+      "Puddle",
+      "Ocean"
+    ],
+    "status": "success"
+  }
+  {
+    "venue": "Application",
+    "rooms": [
+      "Binary",
+      "Code"
+    ],
+    "status": "success"
+  }
+  {
+    "venue": "Application",
+    "rooms": [
+      "Compiler",
+      "Executable"
+    ],
+    "status": "success"
+  }
+  {"status": "rejected"}
+  [
+    {
+      "reservations": [{
+        "start": "2019-05-15",
+        "end": "2019-05-17",
+        "id": "Low Level"
+      }],
+      "room": "Binary"
+    },
+    {
+      "reservations": [{
+        "start": "2019-05-15",
+        "end": "2019-05-17",
+        "id": "Low Level"
+      }],
+      "room": "Code"
+    },
+    {
+      "reservations": [{
+        "start": "2019-05-17",
+        "end": "2019-05-25",
+        "id": "Why?"
+      }],
+      "room": "Compiler"
+    },
+    {
+      "reservations": [{
+        "start": "2019-05-17",
+        "end": "2019-05-25",
+        "id": "Why?"
+      }],
+      "room": "Executable"
+    }
+  ]

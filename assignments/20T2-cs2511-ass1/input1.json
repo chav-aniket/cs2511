@@ -1,0 +1,14 @@
+{ "command": "room", "venue": "Milky Way", "room": "Pluto", "size": "small" }
+{ "command": "room", "venue": "Milky Way", "room": "Earth", "size": "medium" }
+{ "command": "room", "venue": "Milky Way", "room": "Jupiter", "size": "large" }
+{ "command": "room", "venue": "Universe", "room": "Neutron", "size": "medium" }
+{ "command": "room", "venue": "Universe", "room": "Blazar", "size": "large" }
+{ "command": "request", "id": "Alignment", "start": "2019-05-14", "end": "2019-05-18", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Collision", "start": "2019-05-15", "end": "2019-05-17", "small": 0, "medium": 1, "large": 1 }
+{ "command": "change", "id": "Alignment", "start": "2019-06-20", "end": "2019-06-25", "small": 0, "medium": 1, "large": 1 }
+{ "command": "cancel", "id": "Collision" }
+{ "command": "request", "id": "Miracle", "start": "2019-05-14", "end": "2019-05-14", "small": 1, "medium": 0, "large": 0 }
+{ "command": "cancel", "id": "Alignment" }
+{ "command": "list", "venue": "Milky Way" }
+{ "command": "request", "id": "Alignment", "start": "2019-05-14", "end": "2019-05-18", "small": 1, "medium": 1, "large": 1 }
+{ "command": "list", "venue": "Universe" }

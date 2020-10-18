@@ -1,0 +1,3 @@
+Both the Abstract Factory and Factory Method are creational design patterns that involve an interface to produce objects from.
+The Abstract Factory differs in that its intent is to allow the software to create different related/dependent objects without defining their concrete classes.
+The Factory Method however allows the creation of one object but allows its subclasses to instantiate it and decide which class to instantiate the object under.
